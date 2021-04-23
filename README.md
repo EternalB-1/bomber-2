@@ -1,3 +1,8 @@
+<h3>#This repository was copied: https://github.com/FSystem88/spymer</h3>
+
+<h2>For 1 round (SMS) I get 11 sms</h2>
+
+
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![GitHub contributors](https://img.shields.io/github/contributors/fsystem88/spymer.svg)](https://GitHub.com/fsystem88/spymer/graphs/contributors/) [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) ![repo-size](https://img.shields.io/github/repo-size/fsystem88/spymer)
 
 # Spymer
@@ -22,16 +27,16 @@ SMS-спамер<br>
 • <code>apt update</code><br>
 • <code>apt upgrade</code><br>
 • <code>apt install git</code><br>
-• <code>git clone https://github.com/FSystem88/spymer</code><br>
-• <code>sh ~/spymer/install.sh</code><br>
+• <code>git clone https://https://github.com/EternalB-1/bomber-2</code><br>
+• <code>sh ~/bomber-2/install.sh</code><br>
 • <code>spymer</code><br>
 
 <b>Если у вас iOS</a> - скачать <a href="https://apps.apple.com/ru/app/testflight/id899247664">Testflight из App Store</a>, после чего присоедениться к тестированию <a href="https://testflight.apple.com/join/97i7KM8O">iSH в Testflight</a> и прописать команды ниже:<br>
 • <code>apk update</code><br>
 • <code>apk upgrade</code><br>
 • <code>apk add git</code><br>
-• <code>git clone https://github.com/FSystem88/spymer</code><br>
-• <code>sh ~/spymer/install.sh</code><br>
+• <code>git clone https://https://github.com/EternalB-1/bomber-2</code><br>
+• <code>sh ~/bomber-2/install.sh</code><br>
 • <code>spymer</code><br>
 <br>
 Установка на Linux аналогична установке на Android, только без Termux'a, достаточно прав SU и терминала.<br>
