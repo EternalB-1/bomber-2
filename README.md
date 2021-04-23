@@ -1,6 +1,6 @@
 <h3>#This repository was copied: https://github.com/FSystem88/spymer</h3>
 
-<h2>For 1 round (SMS) I get 12 sms</h2>
+<h2>Out of 1000 attempts, I received 12 SMS messages</h2>
 
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![GitHub contributors](https://img.shields.io/github/contributors/fsystem88/spymer.svg)](https://GitHub.com/fsystem88/spymer/graphs/contributors/) [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) ![repo-size](https://img.shields.io/github/repo-size/fsystem88/spymer)
